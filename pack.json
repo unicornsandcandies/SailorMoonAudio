@@ -1,0 +1,10 @@
+{
+  "name": "Sailor Moon LoFi",
+  "description": "Sailor Moon theme based menu music for yor library. Based on: https://www.youtube.com/watch?v=GNieyTX-UzM",
+  "author": "unicornsandcandies",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
